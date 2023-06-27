@@ -1,7 +1,7 @@
 # <p style="padding:10px;background-color:orange;margin:0;color:black;font-family:newtimeroman;font-size:150%;text-align:center;border: 15px 50px;overflow:hidden;font-weight:500">Constructing a recommendation system for anime</p>
 
 <p style="text-align:center; ">
-<img src="https://cdn.donmai.us/original/0b/38/0b38a5da446f969e771f51151a321aba.jpg" style='width: 600px; height: 300px;'>
+<img src="https://cdn.donmai.us/original/0b/38/0b38a5da446f969e771f51151a321aba.jpg" style='width: 600px; height: 400px;'>
 </p>
 
 
